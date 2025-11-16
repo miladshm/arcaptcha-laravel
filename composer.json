@@ -1,7 +1,7 @@
 {
-    "name": "arcaptcha/arcaptcha-laravel",
+    "name": "miladshm/arcaptcha-laravel",
     "description": "Laravel Package for the ArCaptcha",
-    "homepage": "https://github.com/arcaptcha/arcaptcha-laravel",
+    "homepage": "https://github.com/miladshm/arcaptcha-laravel",
     "keywords": [
         "laravel",
         "arcaptcha",
